@@ -4,9 +4,9 @@ Templates must be approved by the team before they will be released
 
 Table of Contents
 
-Product/Project Name
-  <a href="Product templateProduct template">
-    Product/project name
+
+  <a href="Product templateProduct template">Product/Project Name
+    Product/project name
     Description
     Updates
     Dependecies
