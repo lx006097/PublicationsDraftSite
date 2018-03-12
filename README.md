@@ -1,2 +1,2 @@
-# PublicationsDraftSite
-Templates and other tools for organizing IT documents
+# Approved Publication Images
+Approved images used for IT documents
