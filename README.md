@@ -2,7 +2,7 @@
 Templates and other tools used to organize  IT documents. They must be approved by the team before they will be released
 
 <select> 
-  <option value="template"><a href="Product templateProduct template">Product/Project Name</a>
+  <option value="template">Product/Project Name</option>
   <option value="name">Product/project name</option>
     <option value="description">Description</option>
   <option value="updates">Updates</option>
