@@ -1,7 +1,6 @@
 h2>Templates Readme</h2>
 Templates and other tools used to organize  IT documents. They must be approved by the team before they will be released
 
-<select>              <option value="volvo">Volvo</option>              <option value="saab">Saab</option>              <option value="mercedes">Mercedes</option>              <option value="audi">Audi</option></select> 
 <select> 
   <option value="template"><h3><a href="Product templateProduct template">Product/Project Name</a></h3>
     <ul>
